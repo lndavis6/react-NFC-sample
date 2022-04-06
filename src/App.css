@@ -1,5 +1,6 @@
 .App {
   position: relative;
+  background-color: grey;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -15,7 +16,7 @@
 }
 
 .btn {
-  background-color: #1f51ff;
+  background-color: #020080d8;
   border: none;
   color: white;
   font-size: 16px;
